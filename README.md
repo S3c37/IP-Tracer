@@ -1,7 +1,6 @@
 IP-Tracer
 
-Usage: 
+installation
 - git clone https://github.com/S3c37/IP-Tracer.git
 - cd IP-Tracer
-- python iptracer.py 
-- 
+- python3 iptracer.py 
